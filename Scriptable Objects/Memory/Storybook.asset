@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d70a2a67d06cc054e9008d6d4665a249, type: 3}
+  m_Name: Storybook
+  m_EditorClassIdentifier: 
+  text: "[The Story of Cantre'r Gwaelod]>The feast in the castle that night was held
+    in honour of Sir Seithenyn, a great knight, and the honoured guard of the sluice
+    gates that locked the gap in the great sea wall and protected the fair lands
+    of Cantre'r Gawelod from the sea.>Everyone raised their cups in cheers. That
+    is, everyone except Seithenyn himself, who had drunk so much wine and danced
+    for so much of the night that he was fast asleep at the table.>\"The poor fellow!\"
+    The Queen said. \"I think he's been dancing and drinking since the first bell
+    was rung.\" \"That can't be!\" One of the knights cried. \"If he was here since
+    the start, then who closed the gates before high tide?\"/Everyone looked to the
+    doors, and the players stopped playing. In the silence, a great howling and lashing
+    of rain could be heard, and the bells in the distance were sounding the alarm.
+    One of the knights flung the doors open, and a great wave of water came crashing
+    in. Then the windows were smashed and the sea was soon everywhere. The hall filled
+    quickly, and then it was gone./It\u2019s said when you pass over the spot in
+    the sea where Cantre\u2019r Gawelod used to be, or when a storm is rolling in,
+    you can still hear the bells ringing, somewhere far below. "
+  effectRange: 1.7

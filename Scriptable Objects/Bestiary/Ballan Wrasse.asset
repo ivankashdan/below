@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0b688b67ae6f5418f8bbfcdb9b7af4, type: 3}
+  m_Name: Ballan Wrasse
+  m_EditorClassIdentifier: 
+  title: Ballan Wrasse
+  image: {fileID: 21300000, guid: 2c68b9e5321e76345b60d978e7c7712e, type: 3}
+  icon: {fileID: 21300000, guid: 39ae1003d4a2c724e98a64f99424491f, type: 3}
+  description: "The largest UK wrasse species, the Ballan Wrasse has incredibly strong
+    teeth used to pull molluscs and barnacles off rocks. They can crush shells with
+    the extra teeth in their throats.\r"

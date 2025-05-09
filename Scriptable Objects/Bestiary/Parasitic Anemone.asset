@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0b688b67ae6f5418f8bbfcdb9b7af4, type: 3}
+  m_Name: Parasitic Anemone
+  m_EditorClassIdentifier: 
+  title: Parasitic Anemone
+  image: {fileID: 21300000, guid: 34074a4957e1c68409712c109e38faa5, type: 3}
+  icon: {fileID: 21300000, guid: c4ff584772d85334cb444d8fea5fa688, type: 3}
+  description: Despite their name, Parasitic Anemones - while parasitic to jellyfish
+    - have a reciprocal relationship with hermit crabs. The hermit crab offers transport,
+    filtered water, and scraps of food from messy eating, while the anemone offers
+    protection and camouflage.

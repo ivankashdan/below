@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0b688b67ae6f5418f8bbfcdb9b7af4, type: 3}
+  m_Name: Krill
+  m_EditorClassIdentifier: 
+  title: Krill
+  image: {fileID: 21300000, guid: 0bcc1daaabc0e6645b48e0b67c9ea307, type: 3}
+  icon: {fileID: 21300000, guid: bb5b1aabb56ef6d4c9b645d47e44bfdf, type: 3}
+  description: "These small, shrimplike crustaceans play a big role in ocean ecosystems.
+    Krill are a main staple in the diets of hundreds of animals. They\u2019re speedy,
+    so don\u2019t be surprised if they swim away when you approach.\r"

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0b688b67ae6f5418f8bbfcdb9b7af4, type: 3}
+  m_Name: Common Hermit Crab
+  m_EditorClassIdentifier: 
+  title: Common Hermit Crab
+  image: {fileID: 21300000, guid: 2dc461071943ead44b0b645d211cef51, type: 3}
+  icon: {fileID: 21300000, guid: f23ec85f556cb0f40886a0fa4aaff26a, type: 3}
+  description: "Hey, it\u2019s you! Hermit Crabs live inside the empty shells of
+    sea snails (or whatever else they can find!). They particularly like whelk and
+    periwinkle shells. They will feed on anything they can find, which helps them
+    to survive in most conditions."
