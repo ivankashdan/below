@@ -25,7 +25,7 @@ These systems function on both console controllers and PC. We are aiming for a m
 Available to wishlist on [Steam](https://store.steampowered.com/app/3470880/A_Home_Below/)
 
 ## Explore the code database
-This repo contains only the scripts for the prototype, which demonostrate a number of principles
+This repo contains only the scripts for the prototype, which demonstrate a number of principles
 - Use of Observer & MVC patterns for UI
 - Use of Finite State Machine for AI
 - Use of OOP
